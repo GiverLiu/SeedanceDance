@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "label": "开场律动与步伐",
+    "core_frames": [
+      0,
+      255
+    ],
+    "reference_frames": [
+      0,
+      270
+    ],
+    "core_seconds": [
+      0.0,
+      8.5
+    ],
+    "reference_seconds": [
+      0.0,
+      9.0
+    ],
+    "duration": 9.0,
+    "file": "segment-01-depth.mp4",
+    "trim_head_seconds": 0.0,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 2,
+    "label": "跳跃、落地与转身组合",
+    "core_frames": [
+      255,
+      501
+    ],
+    "reference_frames": [
+      240,
+      516
+    ],
+    "core_seconds": [
+      8.5,
+      16.7
+    ],
+    "reference_seconds": [
+      8.0,
+      17.2
+    ],
+    "duration": 9.2,
+    "file": "segment-02-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 3,
+    "label": "正面手臂与脚步组合",
+    "core_frames": [
+      501,
+      666
+    ],
+    "reference_frames": [
+      486,
+      681
+    ],
+    "core_seconds": [
+      16.7,
+      22.2
+    ],
+    "reference_seconds": [
+      16.2,
+      22.7
+    ],
+    "duration": 6.5,
+    "file": "segment-03-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 4,
+    "label": "转背、回正与胸前组合",
+    "core_frames": [
+      666,
+      933
+    ],
+    "reference_frames": [
+      651,
+      948
+    ],
+    "core_seconds": [
+      22.2,
+      31.1
+    ],
+    "reference_seconds": [
+      21.7,
+      31.6
+    ],
+    "duration": 9.9,
+    "file": "segment-04-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 5,
+    "label": "快速横移与高抬腿",
+    "core_frames": [
+      933,
+      1161
+    ],
+    "reference_frames": [
+      918,
+      1176
+    ],
+    "core_seconds": [
+      31.1,
+      38.7
+    ],
+    "reference_seconds": [
+      30.6,
+      39.2
+    ],
+    "duration": 8.6,
+    "file": "segment-05-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 6,
+    "label": "俯身撑地与起身完整组合",
+    "core_frames": [
+      1161,
+      1323
+    ],
+    "reference_frames": [
+      1146,
+      1338
+    ],
+    "core_seconds": [
+      38.7,
+      44.1
+    ],
+    "reference_seconds": [
+      38.2,
+      44.6
+    ],
+    "duration": 6.4,
+    "file": "segment-06-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.5
+  },
+  {
+    "id": 7,
+    "label": "收尾站立舞段",
+    "core_frames": [
+      1323,
+      1565
+    ],
+    "reference_frames": [
+      1308,
+      1565
+    ],
+    "core_seconds": [
+      44.1,
+      52.166666666666664
+    ],
+    "reference_seconds": [
+      43.6,
+      52.166666666666664
+    ],
+    "duration": 8.566666666666666,
+    "file": "segment-07-depth.mp4",
+    "trim_head_seconds": 0.5,
+    "trim_tail_seconds": 0.0
+  }
+]
