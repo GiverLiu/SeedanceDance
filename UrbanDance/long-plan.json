@@ -1,0 +1,23 @@
+{
+  "source_duration": 49.835,
+  "depth_duration": 49.833333333333336,
+  "part01": {
+    "file": "long-part01-depth-30s.mp4",
+    "source_range": [
+      0,
+      30
+    ],
+    "frames": 900
+  },
+  "part02": {
+    "file": "long-part02-depth-20s.mp4",
+    "source_range": [
+      30,
+      49.833333333333336
+    ],
+    "hold_seconds": 0.16666666666666666,
+    "frames": 600
+  },
+  "continuation": "After part01 generated and approved, extract its final2–3s as extension source; use part02 as future motion reference. Do not append the source tail twice in edit.",
+  "quality": "Temporal VideoDepthAnything Small, highest configured input518, FP32; sourceframes1110x542, display1920x938 is upsampling; fixed global inverse-depth scale, white near. Relative estimate, not metric depth."
+}
