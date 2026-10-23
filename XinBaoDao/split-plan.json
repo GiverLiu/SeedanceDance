@@ -1,0 +1,22 @@
+[
+  {
+    "file": "part01-depth-30s.mp4",
+    "source_range": [
+      0.0,
+      30.0
+    ],
+    "frames": 900,
+    "fps": 30,
+    "duration": 30.0
+  },
+  {
+    "file": "part02-depth-19s.mp4",
+    "source_range": [
+      30.0,
+      49.0
+    ],
+    "frames": 570,
+    "fps": 30,
+    "duration": 19.0
+  }
+]
